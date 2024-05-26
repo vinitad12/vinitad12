@@ -111,4 +111,5 @@ Feel free to reach out for collaboration, job opportunities, or just to connect!
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinitad12&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinitad12&theme=dark&show_icons=true)
+
