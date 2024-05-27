@@ -6,6 +6,7 @@ I'm a passionate Test Automation Developer with extensive experience in designin
 ## Tech Stack
 ### Languages
 - **Java**
+- **python**
 - **C#**
 - **JavaScript (JS)**
 - **SQL**
